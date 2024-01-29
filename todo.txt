@@ -1,1 +1,1 @@
-1. Pass through a few Git lessons.
+1. Пройти пару **тем** по Git.
